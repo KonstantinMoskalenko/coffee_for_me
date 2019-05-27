@@ -22,7 +22,7 @@ Default names:
 2. `pip install -r requirements.txt`;
 3. go to `.../coffee_for_me/db` and do `python db_creation.py` for create necessary database;
 
-### Running
+### Running:
 4. run main script. Go to `coffee_for_me` dir and as example do `python start_script.py salesman Liza`;
 5. for running all tests do `pytest tests/unittests/`.
 
