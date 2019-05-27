@@ -23,8 +23,8 @@ Default names:
 3. go to `.../coffee_for_me/db` and do `python db_creation.py` for create necessary database;
 
 ### Running:
-4. run main script. Go to `coffee_for_me` dir and as example do `python start_script.py salesman Liza`;
-5. for running all tests do `pytest tests/unittests/`.
+1. run main script. Go to `coffee_for_me` dir and as example do `python start_script.py salesman Liza`;
+2. for running all tests do `pytest tests/unittests/`.
 
 ### Usage and start script Option:
 You can see detail in help do 'python start_script.py -h'
